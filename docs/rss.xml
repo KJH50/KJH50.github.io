@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>KJH50博客</title><link>https://KJH50.github.io</link><description>KJH50博客,主要为了各种屑屑干货人才聚集地[1群]和朋友写教程</description><copyright>KJH50博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/89094301?s=400&amp;u=7ff4555a4c5e5c67caf1535edea09e816a59c849&amp;v=4</url><title>avatar</title><link>https://KJH50.github.io</link></image><lastBuildDate>Sat, 13 Jul 2024 17:00:41 +0000</lastBuildDate><managingEditor>KJH50博客</managingEditor><ttl>60</ttl><webMaster>KJH50博客</webMaster><item><title>空洞骑士联机教程</title><link>https://KJH50.github.io/post/kong-dong-qi-shi-lian-ji-jiao-cheng.html</link><description># 空洞骑士联机教程&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>KJH50博客</title><link>https://KJH50.github.io</link><description>KJH50博客,主要为了各种屑屑干货人才聚集地[1群]和朋友写教程</description><copyright>KJH50博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/89094301?s=400&amp;u=7ff4555a4c5e5c67caf1535edea09e816a59c849&amp;v=4</url><title>avatar</title><link>https://KJH50.github.io</link></image><lastBuildDate>Sat, 13 Jul 2024 17:05:24 +0000</lastBuildDate><managingEditor>KJH50博客</managingEditor><ttl>60</ttl><webMaster>KJH50博客</webMaster><item><title>空洞骑士联机教程</title><link>https://KJH50.github.io/post/kong-dong-qi-shi-lian-ji-jiao-cheng.html</link><description># 空洞骑士联机教程&#13;
 ## 一.空洞骑士联机mod安装&#13;
 ### 1.下载Lumafly-这是一个空洞骑士模组管理软件&#13;
 ![QQ截图20240714000525](https://github.com/user-attachments/assets/62f41618-d8a3-49df-9305-45a67a12be3f)&#13;
@@ -8,5 +8,6 @@
 ### 2.打开Lumafly软件&#13;
 打开Lumafly软件,点击模组按钮&#13;
 ![QQ截图20240714000900](https://github.com/user-attachments/assets/e2e56f11-749a-4959-aa99-433733375046)&#13;
+`Gmeek-html&lt;img src='https://s21.ax1x.com/2024/07/14/pk4b3Ks.png'&gt;`&#13;
 ### 3.搜索模组&#13;
 在软件上方搜索栏搜索 **HKMP** 并找到该模组，在该模组右边安装选项点击安装。</description><guid isPermaLink="true">https://KJH50.github.io/post/kong-dong-qi-shi-lian-ji-jiao-cheng.html</guid><pubDate>Sat, 13 Jul 2024 16:34:19 +0000</pubDate></item><item><title>个人博客测试</title><link>https://KJH50.github.io/post/ge-ren-bo-ke-ce-shi.html</link><description>测试。</description><guid isPermaLink="true">https://KJH50.github.io/post/ge-ren-bo-ke-ce-shi.html</guid><pubDate>Sat, 13 Jul 2024 14:59:21 +0000</pubDate></item></channel></rss>
