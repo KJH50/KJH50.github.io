@@ -7,5 +7,7 @@
     "startSite":"07/14/2024",
     "UTC":8,
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
-    "singlePage":["about"]
+    "singlePage":["about"],
+    "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
+    "onePageListNum":15,
 }
